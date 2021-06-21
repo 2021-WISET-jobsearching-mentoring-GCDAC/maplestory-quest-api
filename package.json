@@ -1,0 +1,22 @@
+{
+  "name": "maplestory-quest-api",
+  "version": "1.0.0",
+  "description": "maplestory-quest-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2021-WISET-jobsearching-mentoring-GCDAC/maplestory-quest-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2021-WISET-jobsearching-mentoring-GCDAC/maplestory-quest-api/issues"
+  },
+  "homepage": "https://github.com/2021-WISET-jobsearching-mentoring-GCDAC/maplestory-quest-api#readme",
+  "dependencies": {
+    "graphql": "^15.5.1"
+  }
+}
